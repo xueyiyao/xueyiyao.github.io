@@ -58,7 +58,7 @@ export default function Home() {
               Software Engineer
             </h3>
             <p className="  text-md py-5 leading-8 text-gray-800 dark:text-gray-400">
-              I'm a software engineer and tech enthusiast from San Francisco. I
+              I am a software engineer and tech enthusiast from San Francisco. I
               enjoy building things and am always excited to learn something
               new! Welcome to my site!
             </p>
