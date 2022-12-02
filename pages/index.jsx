@@ -48,7 +48,7 @@ export default function Home() {
         </nav>
         <section className=" px-10 min-h-screen">
           <div className=" relative bg-gradient-to-b from-teal-500 rounded-full w-72 h-72 mt-12 mx-auto overflow-hidden">
-            <Image src={headshot} />
+            <Image src={headshot} alt={"headshot"} />
           </div>
           <div className=" text-center p-10">
             <h2 className=" text-5xl py-2 text-teal-600 dark:text-teal-400 font-medium">
